@@ -1,0 +1,101 @@
+body{
+    margin:40px;
+}
+li a{
+    dislay:block;
+    color:#666;
+    height:10px;
+    padding:14px 16px;
+    text-decoration: none;
+    float:right;
+    
+}
+#navlogo
+{
+    float : left;
+    height:10px;
+    padding:14px 16px;
+    
+}
+nav{
+    overflow: hidden;
+}
+#nav
+{
+    padding: 10px 0px;
+    border-bottom: 1px solid;
+    overflow: hidden;
+}
+div{
+    overflow: hidden;
+}
+#backimage
+{
+    
+    overflow: hidden;
+    background-image: url(./img/bat_cover.jpg);
+    background-repeat: no-repeat;
+    height:350px;
+    background-size:cover;
+  margin-top: 10px;
+    color: white;
+}
+#bckimgtxt
+{
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    position: relative;
+    max-width:40%;
+    top:100px;
+    float:none;
+}
+#list1{
+    float:left;
+    width:50%;
+    
+}
+#list2{
+    float:right;
+    width:50%;
+    
+}
+#id4
+{
+    overflow: hidden;
+}
+#id2{
+    float:left;
+    margin: 10px;
+}
+th,td
+{
+    height:30px;
+    padding: 5px;
+    border: 1px solid black;
+}
+th{
+    background-color: grey;
+    font: bold;
+}
+table
+{
+    border-collapse: collapse;
+}
+
+.pic1
+{
+    float:left;
+    width:30%;
+    height:auto;
+    text-align: center;
+}
+input[type="text"]
+{
+    height:20px;
+    width:400px;
+}
+#b1
+{
+    border-top: 1px solid black;
+    
+}
